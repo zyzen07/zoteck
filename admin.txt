@@ -1,2 +1,3 @@
 add and remove ve qw
-k
+k 
+add
